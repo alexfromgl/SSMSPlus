@@ -9,5 +9,8 @@
         <Setter Property="VirtualizingPanel.ScrollUnit" Value="Pixel" />
         <Setter Property="CanUserReorderColumns" Value="False" />
         <Setter Property="SelectionMode" Value="Single" />
+        <Setter Property="GridLinesVisibility" Value="None" />
+        <Setter Property="AlternationCount" Value="2" />
+        <Setter Property="AlternatingRowBackground" Value="LightGray" />
     </Style>
 </ResourceDictionary>
